@@ -1,0 +1,5 @@
+name: "alikins.collection_mcgee"
+version: "1.0.0"
+description: "a collection with one level of requirements inside of collection_multi_one_git_repo"
+authors: ["Adrian Likins"]
+license: "GPL-3.0-or-later"
